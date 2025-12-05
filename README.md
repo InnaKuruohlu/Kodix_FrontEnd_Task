@@ -17,11 +17,11 @@ The website is not responsive as created examples of pages just for big screens 
 ***
 Installation & Running Locally
 
--Clone the repository:
+- Clone the repository:
 
 (git clone https://github.com/InnaKuruohlu/Kodix_FrontEnd_Task.git
 cd Kodix_FrontEnd_Task/my-react-app)
 
 - Install dependencies: npm install
-- 
+  
 - Start development server: npm run dev
