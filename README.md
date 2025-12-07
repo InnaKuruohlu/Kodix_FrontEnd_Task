@@ -12,9 +12,13 @@ Technologies Used:
 - CSS
 
 ***
-The website is not responsive as created examples of pages just for big screens to match the assignment and show app's functionality.
+
+The layout is optimized for ~1340px desktop screens, matching the Figma design. 
+
+The site is not responsive because the assignment provided only desktop layouts.
 
 ***
+
 Installation & Running Locally
 
 - Clone the repository:
