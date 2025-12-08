@@ -13,7 +13,7 @@ Technologies Used:
 
 ***
 
-The layout is optimized for ~1340px desktop screens, matching the Figma design. 
+The layout is optimized for 1340px desktop screens, matching the Figma design. 
 
 The site is not responsive because the assignment provided only desktop layouts.
 
